@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Fetching Dynamic Content",
+    "content": "<p>As you can see anytime you need dynamic content, all you need to do is install axios (or use fetch like a peasant)</p>",
+    "slug": "fetching-dynamic-content"
+  },
+  {
+    "title": "It's Alive!",
+    "content": "<p>As changes get made in the API, my blogs get updated to reflect those changes. That's amazing!</p>",
+    "slug": "its-alive"
+  }
+]
